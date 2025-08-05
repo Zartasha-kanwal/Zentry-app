@@ -1,5 +1,6 @@
-# ⚡ Zentry App
-
+# ⚡ Zentry:The metagame
+![Dashboard Screenshot](Zentry.png)
+### About project
 A visually dynamic and fully responsive **animated web experience** built using **React.js**, **Tailwind CSS**, and **GSAP**. This modern UI features smooth scroll-triggered animations, immersive **video backgrounds**, and sleek transitions 
 
 
